@@ -25,7 +25,3 @@ The flow was optimized to ensure fast performance and scalability.
 
 ## 🖼 Preview
 ![Agente de Ventas](images/Agente%20de%20Ventas.jpg)
-
-
-### Filters & Drill-down
-![Filters](images/filters.png)
