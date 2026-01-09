@@ -30,13 +30,14 @@ This portfolio includes selected projects focused on **real business problems**:
   - Interactive executive dashboard to analyze sales performance by region and product
   - Focused on KPIs, trends and decision-making
 
-- **Automation & No-Code Solutions**  
+- **[Automation & No-Code Solutions](automation-n8n-power-automate/automated-reporting-workflow)**
   Automated workflows using Power Automate and N8N to reduce manual tasks.
 
 - **AI & Data Projects**  
   Use of LLMs and AI agents to support decision-making and reporting.
 
-- **Fabric, SQL & Python Analysis**  
+- **[Fabric Python Analysis](data-analysis-transformation/Fabric-Python)**
+- **[SQL Analysis](data-analysis-transformation/SQL)**
   Data cleaning, transformation and analysis for actionable insights.
 
 > Each project includes a brief business context, tools used and outcomes.
