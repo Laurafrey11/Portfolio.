@@ -30,7 +30,16 @@ The data model was optimized to ensure fast performance and scalability.
 - Enabled faster decision-making for stakeholders
 
 ## 🖼 Dashboard Preview
-*(Screenshots will be added here)*
+
+### Overview
+![Overview](images/overview.png)
+
+### Filters & Drill-down
+![Filters](images/filters.png)
+
+### Key KPIs
+![KPIs](images/kpis.png)
+
 
 ## 🔗 Demo
 Power BI Public link (coming soon)
