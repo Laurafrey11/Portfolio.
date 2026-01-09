@@ -36,7 +36,7 @@ This portfolio includes selected projects focused on **real business problems**:
 - **AI & Data Projects**  
   Use of LLMs and AI agents to support decision-making and reporting.
 
-- **SQL & Python Analysis**  
+- **Fabric, SQL & Python Analysis**  
   Data cleaning, transformation and analysis for actionable insights.
 
 > Each project includes a brief business context, tools used and outcomes.
