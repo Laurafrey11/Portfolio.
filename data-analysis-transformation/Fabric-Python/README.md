@@ -28,14 +28,14 @@ I designed a workflow that:
 ## 🖼 Workflow Preview
 
 ### 💻​ Pipeline with Fabric:
-![Fabric1](https://github.com/LauraFrey11/Portfolio/blob/main/Fabric1.jpg)
-![Fabric2](https://github.com/LauraFrey11/Portfolio/blob/main/Fabric2.jpg)
+![Fabric1](images/Fabric1.jpg)
+![Fabric2](images/Fabric2.jpg)
 
 ### 💻​ Forecast with Python and Fabric:
-![ForecastSales](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastSales.jpg)
-![ForecastCantidad](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastCantidad.jpg)
-![FabricProject](https://github.com/LauraFrey11/Portfolio/blob/main/FabricProject.jpg)
+![ForecastSales](images/ForecastSales.jpg)
+![ForecastCantidad](images/ForecastCantidad.jpg)
+![FabricProject](images/FabricProject.jpg)
 
 Forecast for sales and quantity made with a Python script.  
-🔗 **Full script:** [forecast_script_pro.py](https://github.com/Laurafrey11/Portfolio/blob/main/forecast_script_pro.py)
+🔗 **Full script:** [forecast_script_pro.py](images/forecast_script_pro.py)
 
