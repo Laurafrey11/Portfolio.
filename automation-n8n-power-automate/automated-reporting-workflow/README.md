@@ -1,32 +1,35 @@
-# ⚙️ Automated Reporting Workflow – N8N & Power Automate
+# ⚙️ Automated Workflow – N8N & Power Automate
 
 ## 🧠 Business Problem
-The company generated periodic reports manually, combining data from
-multiple sources. This process was repetitive, error-prone and time-consuming.
+The company generated monthly bills manually and lost clients for slow response.
 
 ## 🗂 Process & Data Sources
 - Excel / Google Sheets
 - APIs
 - Databases
-- Email reports
+- Email bills
 
 ## 🛠 Tools & Technologies
 - N8N
-- Power Automate
-- Power BI
+- Sheet
+- Open AI
 - APIs
 
 ## ⚙️ Solution
 I designed an automated workflow that:
-- Extracts data from multiple sources
+- Extracts data from the client usage
 - Cleans and transforms the data
-- Updates dashboards automatically
-- Sends scheduled reports via email
+- Creates HTML bills
+- Sends scheduled bills via email
 
 ## 🚀 Impact
-- Significant reduction in manual reporting time
+- Significant reduction in manual functionalities
 - Improved data accuracy
-- Faster access to updated insights
+- Faster access to updated bills
+- Chatbot to be 24/7 on
+- Improved comunication and access
 
 ## 🖼 Workflow Preview
-*(Screenshots or diagrams will be added here)*
+![pdf to sheet](images/pdf%20to%20sheet.jpg)
+![factura](images/factura.png)
+![Agente de Ventas](images/Agente%20de%20Ventas.jpg)
