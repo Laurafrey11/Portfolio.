@@ -29,7 +29,7 @@ I designed a workflow that:
 ## 🖼 Workflow Preview
 
 ### 💻​ App Script Sheet
-![App Script Sheet](https://github.com/LauraFrey11/Portfolio/blob/main/App%20Script%20Sheet.jpg)
+![App Script Sheet](images/App%20Script%20Sheet.jpg)
 
 ### 💻​ SQL Stored Procedure: `sp_GetMonthlySalesGrowthByCategory`
 
