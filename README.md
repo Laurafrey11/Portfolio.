@@ -24,8 +24,11 @@ AI-powered solutions.
 
 This portfolio includes selected projects focused on **real business problems**:
 
-- **Executive Dashboards**  
-  Interactive Power BI and Looker dashboards for finance, education and HR.
+### 📊 Power BI Dashboards
+
+- **[Executive Sales Dashboard – Power BI](power-bi-dashboards/executive-sales-dashboard)**
+  - Interactive executive dashboard to analyze sales performance by region and product
+  - Focused on KPIs, trends and decision-making
 
 - **Automation & No-Code Solutions**  
   Automated workflows using Power Automate and N8N to reduce manual tasks.
