@@ -31,4 +31,4 @@ I designed an automated workflow that:
 ## 🖼 Workflow Preview
 ![pdf to sheet](images/pdf%20to%20sheet.jpg)
 ![factura](images/factura.png)
-![AI_Factura](images/AI_Factura.jpg)
+![AI_Factura](images/AI_Factura.png)
