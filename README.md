@@ -37,6 +37,7 @@ This portfolio includes selected projects focused on **real business problems**:
   Use of LLMs and AI agents to support decision-making and reporting.
 
 - **[Fabric Python Analysis](data-analysis-transformation/Fabric-Python)**
+  Data cleaning, transformation and analysis for actionable insights.
 - **[SQL Analysis](data-analysis-transformation/SQL)**
   Data cleaning, transformation and analysis for actionable insights.
 
