@@ -32,13 +32,9 @@ The data model was optimized to ensure fast performance and scalability.
 ## 🖼 Dashboard Preview
 
 ### Overview
-![Overview](images/overview.png)
-
-### Filters & Drill-down
-![Filters](images/filters.png)
-
-### Key KPIs
-![KPIs](images/kpis.png)
+![HRDashboard](images/HRDashboard.jpg)
+![HRDashboard2](images/HRDashboard2.jpg)
+![HRDashboard3](images/HRDashboard3.jpg)
 
 
 ## 🔗 Demo
