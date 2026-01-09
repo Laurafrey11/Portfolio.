@@ -1,4 +1,4 @@
-# ⚙️ Automated Reporting Workflow – N8N & Power Automate
+# ⚙️ Fabric & Python Automated Analysis Reporting
 
 ## 🧠 Business Problem
 The company needed to generate reports with unstructure data and combining data from
