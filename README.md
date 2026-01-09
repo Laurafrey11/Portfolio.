@@ -33,8 +33,8 @@ This portfolio includes selected projects focused on **real business problems**:
 - **[Automation & No-Code Solutions](automation-n8n-power-automate/automated-reporting-workflow)**
   Automated workflows using Power Automate and N8N to reduce manual tasks.
 
-- **AI & Data Projects**  
-  Use of LLMs and AI agents to support decision-making and reporting.
+- **[AI Agent and LLMs Solutions](automation-n8n-power-automate/automated-chatbot)**
+  Use of LLMs and AI agents to support sales-making.
 
 - **[Fabric Python Analysis](data-analysis-transformation/Fabric-Python)**
   Data cleaning, transformation and analysis for actionable insights.
