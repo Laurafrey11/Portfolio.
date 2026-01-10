@@ -1,14 +1,16 @@
 # 📊 Executive HR Dashboard – Power BI
 
 ## 🧠 Business Problem
-The company needed a clear and centralized view of HR performance.
-Reports were generated manually, making it difficult for management to
-identify trends in human resource, compare years and make data-driven decisions.
+The company needed a centralized view of key HR metrics to understand workforce
+composition, employee turnover and absenteeism.
+
+Manual reports made it difficult for HR leaders to identify trends and make
+strategic decisions.
 
 ## 🗂 Data
-- Simulated sales dataset (CSV format)
-- +50,000 rows
-- Includes salaries, capacitation, regions, roles and dates
+- Simulated HR dataset (CSV format)
+- +10,000 employee records
+- Includes headcount, departments, roles, hiring dates, absences and turnover
 
 ## 🛠 Tools & Technologies
 - Power BI
@@ -17,17 +19,16 @@ identify trends in human resource, compare years and make data-driven decisions.
 - AI
 
 ## 📊 Solution
-I designed an interactive executive dashboard that allows users to:
-- Monitor key sales KPIs
-- Analyze performance by region and product
-- Use filters and drill-downs for deeper insights
-
-The data model was optimized to ensure fast performance and scalability.
+I designed an executive HR dashboard that allows users to:
+- Monitor headcount evolution
+- Analyze turnover and absenteeism rates
+- Explore metrics by department and role
+- Identify workforce trends over time
 
 ## 🚀 Impact
-- Reduced manual reporting time
-- Improved visibility of sales trends
-- Enabled faster decision-making for stakeholders
+- Improved visibility of workforce indicators
+- Reduced manual HR reporting
+- Supported data-driven HR decisions
 
 ## 🖼 Dashboard Preview
 
