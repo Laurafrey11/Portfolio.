@@ -26,9 +26,9 @@ This portfolio includes selected projects focused on **real business problems**:
 
 ### 📊 Power BI Dashboards
 
-- **[Executive Sales Dashboard – Power BI](power-bi-dashboards/executive-sales-dashboard)**
-  - Interactive executive dashboard to analyze sales performance by region and product
-  - Focused on KPIs, trends and decision-making
+- **[Executive HR Dashboard – Power BI](power-bi-dashboards/executive-hr-dashboard)**
+  - Interactive executive dashboard to analyze workforce metrics and HR performance
+  - Focused on headcount, turnover, absenteeism and decision-making
 
 - **[Automation & No-Code Solutions](automation-n8n-power-automate/automated-reporting-workflow)**
   Automated workflows using Power Automate and N8N to reduce manual tasks.
