@@ -1,20 +1,20 @@
-# 📊 Executive Sales Dashboard – Power BI
+# 📊 Executive HR Dashboard – Power BI
 
 ## 🧠 Business Problem
-The company needed a clear and centralized view of sales performance.
+The company needed a clear and centralized view of HR performance.
 Reports were generated manually, making it difficult for management to
-identify trends, compare regions and make data-driven decisions.
+identify trends in human resource, compare years and make data-driven decisions.
 
 ## 🗂 Data
 - Simulated sales dataset (CSV format)
 - +50,000 rows
-- Includes sales, products, regions, customers and dates
+- Includes salaries, capacitation, regions, roles and dates
 
 ## 🛠 Tools & Technologies
 - Power BI
 - Power Query
 - DAX
-- SQL
+- AI
 
 ## 📊 Solution
 I designed an interactive executive dashboard that allows users to:
