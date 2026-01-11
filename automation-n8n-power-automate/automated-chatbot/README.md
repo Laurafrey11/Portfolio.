@@ -38,5 +38,5 @@ The workflow ensures fast response times and clear traceability of each request.
 - Increased customer satisfaction and retention
 
 ## 🖼 Workflow Preview
-![chatbot](images/chatbot.jpg)
-![chatbot1](images/chatbot1.jpg)
+![chatbot](images/chatbot.png)
+![chatbot1](images/chatbot1.png)
