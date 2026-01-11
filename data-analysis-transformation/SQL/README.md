@@ -1,30 +1,36 @@
-# ⚙️ SQL procedure & App Script Automated Analysis Reporting
+# ⚙️ SQL Procedure & App Script Automated Reporting
 
 ## 🧠 Business Problem
-The company needed to automate reports that they had been doing manually. This process was repetitive, error-prone and time-consuming.
-The stored procedure is designed for business analytics and portfolio demonstrations.  
-It aggregates total monthly sales per product category and computes the month-over-month growth percentage.  
-Useful for dashboards, reports, or showcasing analytical SQL capabilities.
+The company needed to automate analytical reports that were previously
+generated manually. This process was repetitive, error-prone and
+time-consuming, making it difficult to deliver consistent and timely insights.
+
+Additionally, the solution was designed to support business analytics use cases
+and serve as a portfolio demonstration of advanced SQL capabilities.
 
 ## 🗂 Process & Data Sources
 - Excel / Google Sheets
-- Databases
+- Relational databases
 
 ## 🛠 Tools & Technologies
 - SQL
-- App Script
-- Google Sheet
-- Microsoft SQL Server (T-SQL 2017+)  
+- Microsoft SQL Server (T-SQL 2017+)
+- Google Apps Script
+- Google Sheets
 
 ## ⚙️ Solution
-I designed a workflow that:
-- Cleans and transforms data in the sheet
-- A procedure that returns monthly sales totals by category and calculates the percentage growth compared to the previous month.
+I designed an automated reporting workflow that:
+- Cleans and transforms data directly within Google Sheets
+- Executes a SQL stored procedure to aggregate monthly sales by product category
+- Calculates month-over-month growth percentages
+- Returns structured, analytics-ready results for dashboards and reports
+
+The stored procedure is optimized for business analytics and repeatable reporting.
 
 ## 🚀 Impact
-- Significant reduction in manual clean up
-- Improved data accuracy
-- Faster access to updated insights
+- Significant reduction in manual data preparation
+- Improved data accuracy and consistency
+- Faster access to up-to-date analytical insights
 
 ## 🖼 Workflow Preview
 
