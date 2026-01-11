@@ -32,14 +32,20 @@ This portfolio includes selected projects focused on **real business problems**:
 
 - **[Automation & No-Code Solutions](automation-n8n-power-automate/automated-reporting-workflow)**
   Automated workflows using Power Automate and N8N to reduce manual tasks.
+  
+- **[AI Agents & LLM Solutions](automation-n8n-power-automate/automated-chatbot)**  
+  Design and implementation of AI-powered agents using LLMs to automate
+  customer interactions, classify requests and support business decision-making.
 
-- **[AI Agent and LLMs Solutions](automation-n8n-power-automate/automated-chatbot)**
-  Use of LLMs and AI agents to support sales-making.
+- **[Fabric & Python Automated Analysis](data-analysis-transformation/Fabric-Python)**  
+  Automated data pipelines for cleaning, transforming and analyzing
+  multi-source data using Microsoft Fabric and Python, delivering
+  reliable and actionable insights.
 
-- **[Fabric Python Analysis](data-analysis-transformation/Fabric-Python)**
-  Data cleaning, transformation and analysis for actionable insights.
-- **[SQL Analysis](data-analysis-transformation/SQL)**
-  Data cleaning, transformation and analysis for actionable insights.
+- **[SQL Data Analysis](data-analysis-transformation/SQL)**  
+  Data modeling, querying and analysis using SQL to generate structured,
+  business-ready datasets and insights.
+
 
 > Each project includes a brief business context, tools used and outcomes.
 
