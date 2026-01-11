@@ -30,8 +30,9 @@ This portfolio includes selected projects focused on **real business problems**:
   - Interactive executive dashboard to analyze workforce metrics and HR performance
   - Focused on headcount, turnover, absenteeism and decision-making
 
-- **[Automation & No-Code Solutions](automation-n8n-power-automate/automated-reporting-workflow)**
-  Automated workflows using Power Automate and N8N to reduce manual tasks.
+- **Automation & No-Code Solutions**  
+Automated business workflows built with Power Automate and N8N to streamline
+operations, minimize manual effort and improve process consistency.
   
 - **[AI Agents & LLM Solutions](automation-n8n-power-automate/automated-chatbot)**  
   Design and implementation of AI-powered agents using LLMs to automate
