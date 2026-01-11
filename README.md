@@ -54,7 +54,7 @@ operations, minimize manual effort and improve process consistency.
 
 ## 🌐 CV & Portfolio
 
-- 📄 **Web CV**: [View my CV](Laura_Freyre_CV_Wow.html)
+- 📄 **Web CV**: [CV](cv/CV_MariaLauraFreyre_Ingles.html)
 - 💼 **LinkedIn**: https://www.linkedin.com/in/marialaurafreyre/
 - 🧑‍💻 **GitHub**: https://github.com/Laurafrey11
 
