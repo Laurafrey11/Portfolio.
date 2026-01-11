@@ -47,6 +47,15 @@ operations, minimize manual effort and improve process consistency.
   Data modeling, querying and analysis using SQL to generate structured,
   business-ready datasets and insights.
 
+## 🚀 VibeCoding Projects (Product-Oriented Apps)
+
+Hands-on development of end-to-end applications focused on solving real
+business and personal problems. These projects combine product thinking,
+data visualization and automation to deliver usable, user-facing solutions.
+
+- **[VibeCoding Apps](vibecoding)**  
+  Interactive web applications for operations management and personal finance,
+  including dashboards, tracking systems and data-driven insights.
 
 > Each project includes a brief business context, tools used and outcomes.
 
