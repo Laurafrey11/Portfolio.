@@ -37,5 +37,5 @@ The workflow runs on a scheduled basis and updates action statuses automatically
 - More reliable and controlled financial processes
 
 ## 🖼 Workflow Preview
-![finanzas](images/finanzas.png)
+![finanzas1](images/finanzas1.jpg)
 
