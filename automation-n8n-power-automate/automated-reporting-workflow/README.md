@@ -1,42 +1,41 @@
-# ⚙️ Automated Billing & Payment Workflow – N8N & Power Automate
+# 🚨 Action Tracking & Alerts Automation – Financial Operations
 
 ## 🧠 Business Problem
-The company generated monthly bills and registered client payments manually.
-This process was time-consuming, error-prone and difficult to scale as the
-number of clients increased.
+Financial actions such as payments, collections and approvals were tracked
+manually using spreadsheets and emails. This made it difficult to monitor
+pending actions, detect delays and ensure timely follow-up.
+
+The lack of automated alerts increased the risk of missed deadlines and
+operational inefficiencies.
 
 ## 🗂 Process & Data Sources
-- Client usage data in PDF format
-- Google Sheets / Excel
-- External APIs
-- Email-based billing process
+- Financial action records (Excel / Google Sheets)
+- Payment and collection status
+- Dates, deadlines and responsible parties
+- Email notifications
 
 ## 🛠 Tools & Technologies
 - N8N
 - Power Automate
 - Google Sheets / Excel
-- PDF processing
-- OpenAI API
-- REST APIs
+- Email services
+- APIs
 
 ## ⚙️ Solution
-I designed an automated end-to-end workflow that:
-- Extracts client usage data from PDF files
-- Cleans and transforms the data
-- Generates dynamic HTML invoices
-- Sends scheduled billing emails automatically
+I designed an automated action tracking workflow that:
+- Monitors financial actions and their current status
+- Identifies pending, overdue or critical actions
+- Triggers automated alerts based on defined rules
+- Sends notifications to responsible stakeholders via email
+
+The workflow runs on a scheduled basis and updates action statuses automatically.
 
 ## 🚀 Impact
-- Significant reduction in manual work
-- Improved billing accuracy
-- Faster and more reliable invoice delivery
+- Improved visibility of financial operations
+- Reduced risk of missed payments and deadlines
+- Faster follow-up on critical actions
+- More reliable and controlled financial processes
 
 ## 🖼 Workflow Preview
-### PDF to Sheet
-![PDF to Sheet](images/pdf%20to%20sheet.jpg)
+![finanzas](images/finanzas.png)
 
-### Generated Invoice
-![Invoice](images/factura.png)
-
-### AI-Assisted Invoice
-![AI Invoice](images/AI_Factura.png)
