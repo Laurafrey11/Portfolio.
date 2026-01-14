@@ -39,4 +39,4 @@ I designed an executive HR dashboard that allows users to:
 
 
 ## 🔗 Demo
-Power BI Public link (coming soon)
+[PowerBI](images/index.html)
