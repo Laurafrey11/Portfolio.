@@ -34,8 +34,10 @@ I designed an executive HR dashboard that allows users to:
 
 ### Overview
 ![HRDashboard](images/HRDashboard.jpg)
+![HRDashboard1](images/HRDashboard1.jpg)
 ![HRDashboard2](images/HRDashboard2.jpg)
 ![HRDashboard3](images/HRDashboard3.jpg)
+![HRDashboard4](images/HRDashboard4.jpg)
 
 
 🔗 **Ver dashboard interactivo (Power BI Public)**  
