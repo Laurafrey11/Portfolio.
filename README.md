@@ -63,7 +63,7 @@ data visualization and automation to deliver usable, user-facing solutions.
 
 ## 🌐 CV & Portfolio
 
-- 📄 **Web CV**: [CV](cv/index.html)
+- 📄 **Web CV**: [CV](https://cv-kappa-bice.vercel.app/)
 - 💼 **LinkedIn**: https://www.linkedin.com/in/marialaurafreyre/
 - 🧑‍💻 **GitHub**: https://github.com/Laurafrey11
 
