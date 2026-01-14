@@ -38,5 +38,6 @@ I designed an executive HR dashboard that allows users to:
 ![HRDashboard3](images/HRDashboard3.jpg)
 
 
-## 🔗 Demo
-[PowerBI](images/index.html)
+🔗 **Ver dashboard interactivo (Power BI Public)**  
+👉 https://app.powerbi.com/view?r=eyJrIjoiYTgyMWUzNjUtZGI5ZS00N2U2LWE5NzItYTk2MGRhZGNiNWVhIiwidCI6ImNhMjJhYmIxLTY3OWYtNDQyZi1iYTRkLTg4NWZlNWIxZTQ2NCIsImMiOjZ9
+
