@@ -1,4 +1,6 @@
-# María Laura Freyre  
+# 👋 I'm Maria Laura Freyre — Data Analyst & Developer
+📊 I transform complex data into automatized and visual solutions
+---
 ### Data Analyst | Power BI | Power Platform | IA and Process Automation | Automation (N8N / Copilot)
 
 I help companies make better decisions and save time by transforming data into
@@ -66,6 +68,7 @@ data visualization and automation to deliver usable, user-facing solutions.
 - 📄 **Web CV**: [CV](https://cv-kappa-bice.vercel.app/)
 - 💼 **LinkedIn**: https://www.linkedin.com/in/marialaurafreyre/
 - 🧑‍💻 **GitHub**: https://github.com/Laurafrey11
+- 📧 **Email**: lalifreyre.lf@gmail.com
 
 ---
 
@@ -77,5 +80,6 @@ I’m available for freelance and remote opportunities:
 - Business process automation
 - AI-assisted reporting
 - Monthly data consulting
+- AI automations
 
 📩 Feel free to contact me via LinkedIn or email.
