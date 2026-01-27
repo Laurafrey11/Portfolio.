@@ -25,9 +25,9 @@ This solution is designed to improve efficiency, reduce human error, and support
 ## Architecture / Flow Overview
 
 ### Power Automate Desktop Flow
-![desktop1](images/desktop1.png)
-![desktop2](images/desktop2.png)
-![desktop3](images/desktop3.png)
+![desktop1](images/desktop1.jpg)
+![desktop2](images/desktop2.jpg)
+![desktop3](images/desktop3.jpg)
 
 ---
 
