@@ -1,5 +1,5 @@
-# 👋 I'm Maria Laura Freyre — AI Process Architect, Data Analyst & Developer
-📊 I transform complex data into automatized and visual solutions
+👋 I'm Maria Laura Freyre — AI Process Architect, Data Analyst & Developer
+📊 I turn complex data into automated workflows and powerful visual insights.
 ---
 ### Data Analyst | Power BI | Power Platform | IA and Process Automation | Automation (N8N / Copilot)
 
