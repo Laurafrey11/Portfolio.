@@ -27,8 +27,6 @@ AI-powered solutions.
 
 This portfolio includes selected projects focused on **real business problems**:
 
-### 📊 Power BI Dashboards
-
 - **[Executive HR Dashboard – Power BI](power-bi-dashboards/executive-hr-dashboard)**
   - Interactive executive dashboard to analyze workforce metrics and HR performance
   - Focused on headcount, turnover, absenteeism and decision-making
