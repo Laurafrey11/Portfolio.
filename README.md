@@ -78,6 +78,7 @@ I’m available for freelance and remote opportunities:
 - Power BI dashboard development
 - Business process automation
 - AI-assisted reporting
+- AI-assisted processes
 - Monthly data consulting
 - AI automations
 
